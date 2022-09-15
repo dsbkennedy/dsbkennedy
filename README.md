@@ -8,9 +8,9 @@ In terms of analysis experience, I have substantial experience in exploratory da
 More recently, my focus has shifted from data analysis to data engineering, particularly the development, documentation, and assembly of datasets from routine healthcare datasets. This change in focus has led me to explore the co-integration of R with SQL and Python, an area I am keen to develop. 
 
 ## Skills
-Data collection: Open Data Kit, REDCap
-Data management: SQL, Python
-Data analysis: R, Stata, Python
+Data collection: Open Data Kit, REDCap <br />
+Data management: SQL, Python <br />
+Data analysis: R, Stata, Python <br />
 Data visualisation: R, PowerBI
 
 [Google Scholar Profile](https://scholar.google.com/citations?user=mrHqWHgAAAAJ&hl=en)
